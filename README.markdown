@@ -18,7 +18,17 @@ EDIT-description
 
 `npm install -g EDIT-project-name`
 
-## Using
+## Usage
+
+    var EDIT-module = request("EDIT-module");
+
+    EDIT-show-usage-here
+
+### API
+
+#### __EDIT-method-1__(EDIT-params)
+
+`EDIT-describe-method-here`
 
 ## Version scheme
 
