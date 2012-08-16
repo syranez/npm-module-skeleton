@@ -4,11 +4,14 @@ this is My skeleton node module. To use it:
 
  - remove all above the line
  - view and execute init.sh
+ - Enable travis hook per repository
 
 ^----------------^^--------------------^
 # EDIT-project-name
 
 EDIT-description
+
+[![build status](https://secure.travis-ci.org/syranez/EDIT-repo-name.png)](http://travis-ci.org/syranez/EDIT-repo-name)
 
 ## Installation
 
