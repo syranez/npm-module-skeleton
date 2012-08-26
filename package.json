@@ -3,13 +3,16 @@
   "version": "1.0.0",
   "main": "index.js",
   "directories": {
-    "lib":  "lib",
+    "lib": "lib",
     "test": "test"
   },
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "buster test"
   },
   "author": "Michael Nowack <syranez@minaga-church.de> (https://github.com/syranez)",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "buster": "~0.6.2"
+  }
 }

@@ -5,6 +5,7 @@ this is My skeleton node module. To use it:
  - remove all above the line
  - view and execute init.sh
  - Enable travis hook per repository
+ - Write unit tests with busterjs: http://busterjs.org
 
 ^----------------^^--------------------^
 # EDIT-project-name
